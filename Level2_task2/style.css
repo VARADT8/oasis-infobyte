@@ -1,0 +1,48 @@
+body {
+  border: 5px solid white;
+  font-family: "Montserrat", sans-serif;
+  background-color: black;
+  color: white;
+}
+img {
+  border: 2px solid black;
+  border-radius: 50%;
+}
+p {
+  width: 100%;
+  text-align: start;
+  margin: 0px auto;
+  justify-content: baseline;
+  text-align: justify;
+}
+h1 {
+  text-align: center;
+  font-weight: bolder;
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 20px;
+  text-align: start;
+}
+h2 {
+  margin-bottom: 20px;
+}
+h4 {
+  text-align: end;
+}
+footer {
+  text-align: end;
+  margin-top: 50px;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin: 100px;
+}
+
+.bottom {
+  line-height: 1cm;
+  text-align: justify;
+  margin-top: 20px;
+  text-align: left;
+}
